@@ -57,9 +57,9 @@ Production-grade deployment and performance tuning of the open-source Nous Resea
 
 ### Production Web Systems
 
-- **Nen Driten Islame** — E-commerce + operational admin system (Next.js, Supabase, Stripe)
-- **Gloweb** — Client-facing web systems and backend integrations (React, TypeScript, Node.js, PostgreSQL) — [gloweb.al](https://gloweb.al)
-- **Arbnori Engineering** — Multilingual business platform with deployment automation (Next.js, Node.js, Docker, PostgreSQL)
+- **Nen Driten Islame** — E-commerce + operational admin system (Next.js, Supabase)
+- **Gloweb** — Client-facing web systems and backend integrations (React, TypeScript, Node.js,)
+- **Arbnori Engineering** — Multilingual business platform with deployment automation (Next.js, Node.js)
 
 ---
 
