@@ -1,4 +1,4 @@
-# Shkumbin Sherifi — AI Infrastructure Engineer
+# Shkumbin Sherifi — AI Systems Engineer
 
 > Building local-first inference systems: model deployment, retrieval pipelines, and speech recognition for low-resource languages.
 > Currently designing reproducible fine-tuning workflows and multi-model routing architectures on Apple Silicon.
