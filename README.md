@@ -9,7 +9,7 @@ Focus:
 - Speech-to-text for low-resource languages (Albanian)
 - Multi-model routing & RAG architectures
 - Systems design over model chasing
-- 
+  
 # Selected Work
 
 - NFL Simulator — multi-agent simulation engine for player evaluation & franchise modeling
